@@ -603,7 +603,7 @@ namespace Impossible_Game
                 e.Graphics.FillEllipse(pointBrush, pointBall3);
                 e.Graphics.FillRectangle(playerBrush, player);
 
-                
+                 
             }
         }
     }
